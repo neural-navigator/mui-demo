@@ -9,6 +9,7 @@ export const MuiTypography = () => {
             <Typography variant="h4">h4</Typography>
             <Typography variant="h5">h5</Typography>
 
+            
         </div>
     )
 }
